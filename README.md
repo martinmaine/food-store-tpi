@@ -7,7 +7,7 @@ Trabajo Práctico Integrador · **Programación 4** · Tecnicatura Universitaria
 | | |
 |---|---|
 | 🔗 **Repositorio** | https://github.com/martinmaine/food-store-tpi |
-| 🎥 **Video de demostración** | _PEGAR ACÁ EL LINK PÚBLICO DEL VIDEO (YouTube / Drive)_ |
+| 🎥 **Video de demostración** https://youtu.be/A3pHD7xLnBc
  
 Aplicación web completa para un negocio de comidas: los clientes se registran, recorren el catálogo, arman un carrito y confirman pedidos indicando la dirección y la forma de pago (efectivo o transferencia). El administrador gestiona categorías, productos, stock, pedidos y usuarios desde un panel.
  
